@@ -1,5 +1,5 @@
 public class Fujimura extends Template{
-	public SelfIntro(String name){
+	public Fujimura(String name){
 		super(name);
 	}
 	@Override
