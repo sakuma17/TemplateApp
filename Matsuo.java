@@ -1,6 +1,6 @@
 public class Matsuo extends Template{
 	public Matsuo(String name){
-		supre(name);
+		super(name);
 	}
 	@Override
 	public void content(){
