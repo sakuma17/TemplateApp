@@ -4,7 +4,7 @@ public abstract class Template{
 		this.name=name;
 	}
 	public void intro(){
-		System.out.println("はじめまして、"+this.name+"です!");
+		System.out.println("はじめまして、"+this.name+"です");
 	}
 	public abstract void content();
 	public void ending(){
